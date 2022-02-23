@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" fill="none">
+    <symbol id="crown" viewBox="230 405 610 720"> 
+        <polyline points="275 750 550 750" stroke-width="20" stroke="grey" stroke-linejoin="round" stroke-linecap="round" fill="none"></polyline> 
+        <polyline points="275 700 550 700 590 525 480 600 413 420 345 600 245 525 275 700" stroke-width="20" stroke="grey" stroke-linecap="round"
+        stroke-linejoin="round" fill="none"></polyline>
+    </symbol>
+</svg>
